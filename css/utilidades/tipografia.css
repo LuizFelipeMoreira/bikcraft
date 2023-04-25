@@ -1,6 +1,11 @@
 .font-1-xs {
   font: 400 0.75rem/1.35 "Poppins", arial;
 }
+
+.font-2-xs {
+  font: 400 0.875rem/1.43 "Roboto", arial;
+}
+
 .font-1s {
   font: 400 1rem/1.5 "Poppins", arial;
 }
